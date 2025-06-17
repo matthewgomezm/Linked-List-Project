@@ -7,4 +7,8 @@ This assignment involves implementing a doubly linked list with a sentinel tail.
   - Header File
   - Implemented C++ file
   - makefile
-
+## Skills Developed
+- Dynamic memory management
+- Error handling
+- Recursion
+- Debugging
